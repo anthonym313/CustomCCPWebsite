@@ -1,0 +1,23 @@
+{
+  "name": "customccpexample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anthonym313/CustomCCPWebsite.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anthonym313/CustomCCPWebsite/issues"
+  },
+  "homepage": "https://github.com/anthonym313/CustomCCPWebsite#readme",
+  "dependencies": {
+    "amazon-connect-streams": "^2.2.0"
+  }
+}
